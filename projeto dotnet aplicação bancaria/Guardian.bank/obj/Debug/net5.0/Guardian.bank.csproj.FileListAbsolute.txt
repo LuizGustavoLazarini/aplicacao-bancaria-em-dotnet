@@ -1,0 +1,16 @@
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\bin\Debug\net5.0\Guardian.bank.exe
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\bin\Debug\net5.0\Guardian.bank.deps.json
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\bin\Debug\net5.0\Guardian.bank.runtimeconfig.json
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\bin\Debug\net5.0\Guardian.bank.runtimeconfig.dev.json
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\bin\Debug\net5.0\Guardian.bank.dll
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\bin\Debug\net5.0\ref\Guardian.bank.dll
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\bin\Debug\net5.0\Guardian.bank.pdb
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\obj\Debug\net5.0\Guardian.bank.csprojAssemblyReference.cache
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\obj\Debug\net5.0\Guardian.bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\obj\Debug\net5.0\Guardian.bank.AssemblyInfoInputs.cache
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\obj\Debug\net5.0\Guardian.bank.AssemblyInfo.cs
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\obj\Debug\net5.0\Guardian.bank.csproj.CoreCompileInputs.cache
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\obj\Debug\net5.0\Guardian.bank.dll
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\obj\Debug\net5.0\ref\Guardian.bank.dll
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\obj\Debug\net5.0\Guardian.bank.pdb
+E:\PROGRAMAÇÃO\Digital Innovation One\criando uma aplicação de transferencia bancaria com .net\meu projeto dotnet\Guardian.bank\obj\Debug\net5.0\Guardian.bank.genruntimeconfig.cache

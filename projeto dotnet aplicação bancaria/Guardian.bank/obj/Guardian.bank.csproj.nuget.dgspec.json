@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PROGRAMAÇÃO\\Digital Innovation One\\criando uma aplicação de transferencia bancaria com .net\\meu projeto dotnet\\Guardian.bank\\Guardian.bank.csproj": {}
+  },
+  "projects": {
+    "E:\\PROGRAMAÇÃO\\Digital Innovation One\\criando uma aplicação de transferencia bancaria com .net\\meu projeto dotnet\\Guardian.bank\\Guardian.bank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROGRAMAÇÃO\\Digital Innovation One\\criando uma aplicação de transferencia bancaria com .net\\meu projeto dotnet\\Guardian.bank\\Guardian.bank.csproj",
+        "projectName": "Guardian.bank",
+        "projectPath": "E:\\PROGRAMAÇÃO\\Digital Innovation One\\criando uma aplicação de transferencia bancaria com .net\\meu projeto dotnet\\Guardian.bank\\Guardian.bank.csproj",
+        "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
+        "outputPath": "E:\\PROGRAMAÇÃO\\Digital Innovation One\\criando uma aplicação de transferencia bancaria com .net\\meu projeto dotnet\\Guardian.bank\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

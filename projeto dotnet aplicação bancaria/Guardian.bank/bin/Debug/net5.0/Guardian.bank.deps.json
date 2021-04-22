@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Guardian.bank/1.0.0": {
+        "runtime": {
+          "Guardian.bank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guardian.bank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
